@@ -1,0 +1,21 @@
+.App{
+  height:350px;
+  padding: 10% 0 10% 10%;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
